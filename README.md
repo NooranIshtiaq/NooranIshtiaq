@@ -103,11 +103,8 @@ Relevant Coursework: Machine Learning · Deep Learning · Artificial Intelligenc
 ## 🤝 Let's Connect
 
 I'm actively seeking **full-time opportunities** in Data Science, Machine Learning Engineering, or MLOps roles. Feel free to reach out!
-
-<p align="center">
-  <a href="mailto:nooranishtiaq@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nooranishtiaq"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+Email : nooranishtiaq@gmail.com
+LinkedIn: www.linkedin.com/in/nooran-ishtiaq-727577321
 
 ---
 
