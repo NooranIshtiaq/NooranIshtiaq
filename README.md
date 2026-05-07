@@ -61,37 +61,6 @@ I'm a final-year **BS Data Science** student at **FAST-NUCES Islamabad**, passio
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
-## 💼 Experience
-
-**🔬 Research Intern — Deepfake Detection** *(Nov 2025 – Mar 2026)*  
-DataInsight Research Lab, FAST-NUCES · Islamabad  
-- Developed and evaluated deepfake classification models using ML and computer vision  
-- Applied OOP design patterns for modular, reusable pipeline components  
-- Analyzed large video datasets and presented findings to research teams
-
-**📊 Data Science & NLP Intern** *(Jul 2025 – Aug 2025)*  
-Decimal Solutions (in collaboration with SEAL Lab) · Islamabad  
-- Built end-to-end NLP pipelines for text preprocessing, tokenization, and feature extraction  
-- Implemented ETL workflows using Python, SQL, and cloud environments  
-- Communicated model evaluation results and analysis findings to senior engineers
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🏥 [AI-Powered Accessible Telehealth Platform](#) | Real-time telehealth platform with NLP & computer vision integration on cloud infrastructure | React Native, Python, MERN, NLP, CV |
-| 🔍 [Distributed Big Data Search Engine](https://github.com/NooranIshtiaq/Big_Data_Search_Engine) | TF-IDF search across 1M+ documents using distributed processing on Azure HDInsight | Hadoop, MapReduce, Azure HDInsight |
-| 🎵 [BeatBox Music Recommendation System](https://github.com/NooranIshtiaq/BeatBox-Music-Recommendation-System) | End-to-end recommendation system with ETL pipeline, audio-based similarity & REST API | Python, Flask, PySpark, MongoDB |
-| 🏪 [Near Real-Time METRO Data Warehouse](https://github.com/NooranIshtiaq/METRO-CASH-CARRY-DATA-WAREHOUSE) | Real-time data warehouse with MESHJOIN for continuous ETL of transactional streams | Java, MySQL, Star Schema, OLAP |
-| 💬 [Text-Based Sentiment Analysis](https://github.com/NooranIshtiaq/TEXT_BASED_SENTIMENT_ANALYSIS) | NLP sentiment & thematic analysis on Amazon product reviews | Python, NLP, Scikit-learn |
-| 🕹️ [AI GameBot — Street Fighter II](#) | MLP trained on 20,000+ gameplay frames for real-time adaptive in-game decisions | Python, MLP, Scikit-learn |
-| 📦 [Real-Time Frequent Itemset Mining](https://github.com/NooranIshtiaq/Real-Time_Frequent_Itemset_Mining_on_Streaming-Data) | Streaming analytics pipeline with Apriori, PCY & SON algorithms achieving 75% faster preprocessing | Kafka, DASK, MongoDB |
-
----
-
 ## 📚 Education
 
 **🎓 BS Data Science** — FAST-NUCES, Islamabad *(2022 – 2026)*  
@@ -103,8 +72,8 @@ Relevant Coursework: Machine Learning · Deep Learning · Artificial Intelligenc
 ## 🤝 Let's Connect
 
 I'm actively seeking **full-time opportunities** in Data Science, Machine Learning Engineering, or MLOps roles. Feel free to reach out!
-Email : nooranishtiaq@gmail.com
-LinkedIn: www.linkedin.com/in/nooran-ishtiaq-727577321
+- Email : nooranishtiaq@gmail.com
+- LinkedIn: www.linkedin.com/in/nooran-ishtiaq-727577321
 
 ---
 
