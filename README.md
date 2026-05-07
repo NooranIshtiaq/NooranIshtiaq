@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a final-year **BS Data Science** student at **FAST-NUCES Islamabad**, passionate about building intelligent, production-ready AI systems. My work spans the full ML lifecycle from data engineering and model development to cloud deployment and MLOps automation.
+I'm a final-year BS Data Science student at **FAST-NUCES Islamabad**, passionate about building intelligent, production-ready AI systems. My work spans the full ML lifecycle from data engineering and model development to cloud deployment and MLOps automation.
 
 - 🔬 Research Intern at DataInsight Research Lab, working on deepfake detection with CNNs & computer vision
 - 🧪 NLP & Data Science Intern at Decimal Solutions (in collaboration with SEAL Lab), building end-to-end NLP pipelines
@@ -63,7 +63,7 @@ I'm a final-year **BS Data Science** student at **FAST-NUCES Islamabad**, passio
 ---
 ## Education
 
-**🎓 BS Data Science** — FAST-NUCES, Islamabad *(2022 – 2026)*  
+**🎓 BS Data Science** FAST-NUCES, Islamabad *(2022 – 2026)*  
 Relevant Coursework: Machine Learning · Deep Learning · Artificial Intelligence · MLOps · Data Warehousing · Big Data Analytics · Agentic AI · Data Mining · Database Systems
 
 ---
