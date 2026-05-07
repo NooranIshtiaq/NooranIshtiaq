@@ -10,9 +10,9 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I'm a final-year **BS Data Science** student at **FAST-NUCES Islamabad**, passionate about building intelligent, production-ready AI systems. My work spans the full ML lifecycle — from data engineering and model development to cloud deployment and MLOps automation.
+I'm a final-year **BS Data Science** student at **FAST-NUCES Islamabad**, passionate about building intelligent, production-ready AI systems. My work spans the full ML lifecycle from data engineering and model development to cloud deployment and MLOps automation.
 
 - 🔬 **Research Intern** at DataInsight Research Lab, working on deepfake detection with CNNs & computer vision
 - 🧪 **NLP & Data Science Intern** at Decimal Solutions (in collaboration with SEAL Lab), building end-to-end NLP pipelines
@@ -61,7 +61,7 @@ I'm a final-year **BS Data Science** student at **FAST-NUCES Islamabad**, passio
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-## 📚 Education
+## Education
 
 **🎓 BS Data Science** — FAST-NUCES, Islamabad *(2022 – 2026)*  
 Relevant Coursework: Machine Learning · Deep Learning · Artificial Intelligence · MLOps · Data Warehousing · Big Data Analytics · Agentic AI · Data Mining · Database Systems
@@ -69,7 +69,7 @@ Relevant Coursework: Machine Learning · Deep Learning · Artificial Intelligenc
 ---
 
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm actively seeking **full-time opportunities** in Data Science, Machine Learning Engineering, or MLOps roles. Feel free to reach out!
 - Email : nooranishtiaq@gmail.com
