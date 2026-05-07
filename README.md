@@ -14,10 +14,10 @@
 
 I'm a final-year **BS Data Science** student at **FAST-NUCES Islamabad**, passionate about building intelligent, production-ready AI systems. My work spans the full ML lifecycle from data engineering and model development to cloud deployment and MLOps automation.
 
-- 🔬 **Research Intern** at DataInsight Research Lab, working on deepfake detection with CNNs & computer vision
-- 🧪 **NLP & Data Science Intern** at Decimal Solutions (in collaboration with SEAL Lab), building end-to-end NLP pipelines
-- 🤖 Deeply interested in **Agentic AI**, **LLM systems**, **RAG pipelines**, and **multi-agent frameworks**
-- ☁️ Experienced with **AWS**, **Azure**, **Docker**, **Kubernetes**, and **CI/CD** workflows
+- 🔬 Research Intern at DataInsight Research Lab, working on deepfake detection with CNNs & computer vision
+- 🧪 NLP & Data Science Intern at Decimal Solutions (in collaboration with SEAL Lab), building end-to-end NLP pipelines
+- 🤖 Deeply interested in Agentic AI, LLM systems, RAG pipelines, and multi-agent frameworks
+- ☁️ Experienced with AWS, Azure, Docker, Kubernetes, and CI/CD workflows
 - 📍 Based in Islamabad, Pakistan
 
 ---
