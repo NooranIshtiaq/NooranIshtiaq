@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nooran Ishtiaq 👩‍💻</h1>
+<h1 align="center">Hi, I'm Nooran Ishtiaq </h1>
 
 <h3 align="center">Building end-to-end AI systems · NLP · MLOps · Agentic AI · Computer Vision | FAST NUCES '26</h3>
 
@@ -14,15 +14,15 @@
 
 I'm a final-year BS Data Science student at **FAST-NUCES Islamabad**, passionate about building intelligent, production-ready AI systems. My work spans the full ML lifecycle from data engineering and model development to cloud deployment and MLOps automation.
 
-- 🔬 Research Intern at DataInsight Research Lab, working on deepfake detection with CNNs & computer vision
-- 🧪 NLP & Data Science Intern at Decimal Solutions (in collaboration with SEAL Lab), building end-to-end NLP pipelines
-- 🤖 Deeply interested in Agentic AI, LLM systems, RAG pipelines, and multi-agent frameworks
-- ☁️ Experienced with AWS, Azure, Docker, Kubernetes, and CI/CD workflows
-- 📍 Based in Islamabad, Pakistan
+- Research Intern at DataInsight Research Lab, working on deepfake detection with CNNs & computer vision
+- NLP & Data Science Intern at Decimal Solutions (in collaboration with SEAL Lab), building end-to-end NLP pipelines
+- Deeply interested in Agentic AI, LLM systems, RAG pipelines, and multi-agent frameworks
+- Experienced with AWS, Azure, Docker, Kubernetes, and CI/CD workflows
+- Based in Islamabad, Pakistan
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,7 +63,7 @@ I'm a final-year BS Data Science student at **FAST-NUCES Islamabad**, passionate
 ---
 ## Education
 
-**🎓 BS Data Science** FAST-NUCES, Islamabad *(2022 – 2026)*  
+**BS Data Science** FAST-NUCES, Islamabad *(2022 – 2026)*  
 Relevant Coursework: Machine Learning · Deep Learning · Artificial Intelligence · MLOps · Data Warehousing · Big Data Analytics · Agentic AI · Data Mining · Database Systems
 
 ---
@@ -77,4 +77,4 @@ I'm actively seeking **full-time opportunities** in Data Science, Machine Learni
 
 ---
 
-<p align="center"><i>⭐ "Building intelligent systems that bridge research and real-world impact."</i></p>
+<p align="center"><i> "Building intelligent systems that bridge research and real-world impact."</i></p>
