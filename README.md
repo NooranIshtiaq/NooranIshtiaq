@@ -22,7 +22,6 @@ Agentic AI, and MLOps. BS Data Science graduate from <b>FAST-NUCES, Islamabad.</
 
 --- 
 ### 🧠 About Me
-- 🎓 BS Data Science @ FAST-NUCES Islamabad (2022 – 2026)
 - I built end-to-end ML systems from raw data ingestion, through training, to deployed and monitored pipelines
 - Curious about real-time data streaming, model drift, and building systems that can adapt and retrain on their own
 - Deeply interested in Agentic AI, LLM systems, RAG pipelines, and multi-agent frameworks
@@ -92,23 +91,31 @@ Agentic AI, and MLOps. BS Data Science graduate from <b>FAST-NUCES, Islamabad.</
 Relevant Coursework: Machine Learning · Deep Learning · Artificial Intelligence · MLOps · Data Warehousing · Big Data Analytics · Agentic AI · Data Mining · Database Systems
 
 ---
- 
-### 💼 Work Experience
- 
-**Research Intern — Deepfake Detection**
-*DataInsight Research Lab, FAST-NUCES* · Nov 2025 – Mar 2026
-- Developed and evaluated deepfake classification models using ML and computer vision, applying OOP design patterns for modular, reusable pipeline components
-- Analyzed large video datasets, documented technical requirements and experimental results, and presented findings to the research team
-**Data Science & NLP Intern**
-*Decimal Solutions (in collaboration with SEAL Lab, FAST NUCES, Islamabad)* · Jul 2025 – Aug 2025
-- Built end-to-end NLP pipelines for text preprocessing, tokenization, and feature extraction
-- Implemented ETL workflows using Python, SQL, and cloud environments while communicating model evaluation results to senior engineers and stakeholders.
+## 💼 Work Experience
+
+### Research Intern — Deepfake Detection
+
+*DataInsight Research Lab, FAST-NUCES*  
+**Nov 2025 – Mar 2026**
+
+- Developed and evaluated deepfake classification models using machine learning and computer vision techniques, applying OOP design principles to build modular and reusable pipeline components.
+- Analyzed large-scale video datasets, documented technical requirements and experimental results, and presented findings to the research team.
+
 ---
 
+### Data Science & NLP Intern
+
+*Decimal Solutions (in collaboration with SEAL Lab, FAST-NUCES, Islamabad)*  
+**Jul 2025 – Aug 2025**
+
+- Built end-to-end NLP pipelines for text preprocessing, tokenization, and feature extraction.
+- Implemented ETL workflows using Python, SQL, and cloud environments while communicating model evaluation results to senior engineers and stakeholders.
+
+---
 
 ## Let's Connect
 
-I'm actively seeking **full-time opportunities** in Data Science, Machine Learning Engineering, or MLOps roles. Feel free to reach out!
+I'm actively seeking **full-time opportunities** in Data Science, AI Engineering, or MLOps roles. Feel free to reach out!
 - Email : nooranishtiaq@gmail.com
 - LinkedIn: www.linkedin.com/in/nooran-ishtiaq-727577321
 
