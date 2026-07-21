@@ -1,13 +1,37 @@
+<h1 align="center">Hey, I'm Nooran Ishtiaq 👋</h1>
 
-<h1 align="center">Hi, I'm Nooran Ishtiaq </h1>
- <h3 align="center">Building end-to-end AI systems · NLP · MLOps · Agentic AI · Computer Vision | FAST NUCES '26</h3>
+<h3 align="center">
+AI Engineer · LLM & RAG Developer · Agentic AI Enthusiast
+</h3>
 
-![Location](https://img.shields.io/badge/📍-Islamabad,_Pakistan-blue?style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nooran-ishtiaq-727577321)
-[![Gmail](https://img.shields.io/badge/Gmail-nooranishtiaq%40gmail.com-red?style=flat-square&logo=gmail)](mailto:nooranishtiaq@gmail.com)
- 
----
-  I'm a final-year BS Data Science student at **FAST-NUCES Islamabad**, passionate about building intelligent, production-ready AI systems. My work spans the full ML lifecycle from data engineering and model development to cloud deployment and MLOps automation.
+<p align="center">
+
+<a href="mailto:nooranishtiaq@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nooran-ishtiaq-727577321">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NooranIshtiaq">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/LOCATION-555555?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ISLAMABAD,_PAKISTAN-6BA539?style=for-the-badge"/>
+
+</p>
+
+<br>
+
+<p align="center">
+<i>
+Building intelligent AI systems powered by LLMs, Retrieval-Augmented Generation (RAG),
+Agentic AI, and MLOps. BS Data Science graduate from <b>FAST-NUCES, Islamabad.</b>
+</i>
+</p>
 
 --- 
 ### 🧠 About Me
