@@ -109,15 +109,6 @@ Decimal Solutions (in collaboration with SEAL Lab, FAST-NUCES, Islamabad) *(Jul 
 
 ---
 
-### Data Science & NLP Intern
-
-*Decimal Solutions (in collaboration with SEAL Lab, FAST-NUCES, Islamabad)*  
-**Jul 2025 – Aug 2025**
-
-- Built end-to-end NLP pipelines for text preprocessing, tokenization, and feature extraction.
-- Implemented ETL workflows using Python, SQL, and cloud environments while communicating model evaluation results to senior engineers and stakeholders.
-
----
 
 ## Let's Connect
 
