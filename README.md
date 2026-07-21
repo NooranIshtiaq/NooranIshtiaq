@@ -91,15 +91,21 @@ Agentic AI, and MLOps. BS Data Science graduate from <b>FAST-NUCES, Islamabad.</
 Relevant Coursework: Machine Learning · Deep Learning · Artificial Intelligence · MLOps · Data Warehousing · Big Data Analytics · Agentic AI · Data Mining · Database Systems
 
 ---
-## 💼 Work Experience
+## Work Experience
 
-### Research Intern — Deepfake Detection
-
-*DataInsight Research Lab, FAST-NUCES*  
-**Nov 2025 – Mar 2026**
+**Research Intern : Deepfake Detection**  
+DataInsight Research Lab, FAST-NUCES *(Nov 2025 – Mar 2026)*
 
 - Developed and evaluated deepfake classification models using machine learning and computer vision techniques, applying OOP design principles to build modular and reusable pipeline components.
 - Analyzed large-scale video datasets, documented technical requirements and experimental results, and presented findings to the research team.
+
+<br>
+
+**Data Science & NLP Intern**  
+Decimal Solutions (in collaboration with SEAL Lab, FAST-NUCES, Islamabad) *(Jul 2025 – Aug 2025)*
+
+- Built end-to-end NLP pipelines for text preprocessing, tokenization, and feature extraction.
+- Implemented ETL workflows using Python, SQL, and cloud environments while communicating model evaluation results to senior engineers and stakeholders.
 
 ---
 
