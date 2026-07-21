@@ -1,5 +1,4 @@
 
-Readme · MD
 <h1 align="center">Hi, I'm Nooran Ishtiaq </h1>
  <h3 align="center">Building end-to-end AI systems · NLP · MLOps · Agentic AI · Computer Vision | FAST NUCES '26</h3>
 
