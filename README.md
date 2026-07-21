@@ -5,23 +5,10 @@ AI Engineer · LLM & RAG Developer · Agentic AI Enthusiast
 </h3>
 
 <p align="center">
-
-<a href="mailto:nooranishtiaq@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nooran-ishtiaq-727577321">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/NooranIshtiaq">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://img.shields.io/badge/LOCATION-555555?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ISLAMABAD,_PAKISTAN-6BA539?style=for-the-badge"/>
-
+<a href="mailto:nooranishtiaq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nooran-ishtiaq-727577321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/NooranIshtiaq"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Islamabad,_Pakistan-6BA539?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 <br>
