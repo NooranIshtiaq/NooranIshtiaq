@@ -1,25 +1,22 @@
+
+Readme · MD
 <h1 align="center">Hi, I'm Nooran Ishtiaq </h1>
+ <h3 align="center">Building end-to-end AI systems · NLP · MLOps · Agentic AI · Computer Vision | FAST NUCES '26</h3>
 
-<h3 align="center">Building end-to-end AI systems · NLP · MLOps · Agentic AI · Computer Vision | FAST NUCES '26</h3>
-
-<p align="center">
-  <a href="mailto:nooranishtiaq@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nooranishtiaq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/NooranIshtiaq"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
+![Location](https://img.shields.io/badge/📍-Islamabad,_Pakistan-blue?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nooran-ishtiaq-727577321)
+[![Gmail](https://img.shields.io/badge/Gmail-nooranishtiaq%40gmail.com-red?style=flat-square&logo=gmail)](mailto:nooranishtiaq@gmail.com)
+ 
 ---
+  I'm a final-year BS Data Science student at **FAST-NUCES Islamabad**, passionate about building intelligent, production-ready AI systems. My work spans the full ML lifecycle from data engineering and model development to cloud deployment and MLOps automation.
 
-## About Me
-
-I'm a final-year BS Data Science student at **FAST-NUCES Islamabad**, passionate about building intelligent, production-ready AI systems. My work spans the full ML lifecycle from data engineering and model development to cloud deployment and MLOps automation.
-
-- Research Intern at DataInsight Research Lab, working on deepfake detection with CNNs & computer vision
-- NLP & Data Science Intern at Decimal Solutions (in collaboration with SEAL Lab), building end-to-end NLP pipelines
+--- 
+### 🧠 About Me
+- 🎓 BS Data Science @ FAST-NUCES Islamabad (2022 – 2026)
+- 🔧 I design and build ML systems end-to-end — from raw data ingestion, through training, to deployed and monitored pipelines
+- 🌊 Curious about real-time data streaming, model drift, and building systems that can adapt and retrain on their own
 - Deeply interested in Agentic AI, LLM systems, RAG pipelines, and multi-agent frameworks
-- Experienced with AWS, Azure, Docker, Kubernetes, and CI/CD workflows
-- Based in Islamabad, Pakistan
-
+- 🤝 Open to collaborating on MLOps, big data, and AI-driven projects
 ---
 
 ## Tech Stack
