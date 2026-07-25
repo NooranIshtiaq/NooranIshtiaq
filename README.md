@@ -96,7 +96,6 @@ Relevant Coursework: Machine Learning · Deep Learning · Artificial Intelligenc
 **Research Intern : Deepfake Detection**  
 DataInsight Research Lab, FAST-NUCES *(Nov 2025 – Mar 2026)*
 
-- Developed and evaluated deepfake classification models using machine learning and computer vision techniques, applying OOP design principles to build modular and reusable pipeline components.
 - Analyzed large-scale video datasets, documented technical requirements and experimental results, and presented findings to the research team.
 
 <br>
